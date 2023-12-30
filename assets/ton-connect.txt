@@ -1,0 +1,5 @@
+{
+  "url": "http://tonfool.online",
+  "name": "Fool box",
+  "iconUrl": "https://arweave.net/s5raO00MKK6iY2MvvcoOgsr0sCClF6iYeHAbhahLLcQ"
+}
