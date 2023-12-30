@@ -1,5 +1,5 @@
 {
   "url": "http://tonfool.online",
-  "name": "Fool box",
-  "iconUrl": "https://arweave.net/s5raO00MKK6iY2MvvcoOgsr0sCClF6iYeHAbhahLLcQ"
+  "name": "Cenobites world",
+  "iconUrl": "https://node1.irys.xyz/l-hyKDWbCqIf4rZKj3H4_KaBQNxVjgo1KzeLaPyDScY"
 }
